@@ -1,5 +1,9 @@
 This repository provides additional resources for blog posts in my [blog](https://thegreatwhiteshark.tech.blog/).
 
+# [music](music)
+## [Recording audio using Linux systems II - the Linux sound system](music/recording-audio-using-Linux-systems)
+Contains a [bash script](music/recording-audio-using-Linux-systems/jack-shutdown-script.sh) ensuring a smooth transition between the sound servers JACK and PulseAudio on exiting QJackCtl.
+
 # [art](art)
 ## [Moses receiving the Ten Commandments on top of mount Sinai](art/moses)
 Contains the [Gimp](https://www.gimp.org/) [project](art/moses/moses.xcf) of the corresponding piece.
