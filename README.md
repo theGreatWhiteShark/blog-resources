@@ -6,7 +6,7 @@ Contains a [bash script](music/recording-audio-using-Linux-systems/jack-shutdown
 
 # coding
 ## A data scientist’s view on the election for the Bundestag
-The binary R file [election.results.RData](coding/bundestag-election/election.results.RData) contains the cleaned results of the 2017 election for the German parliament. The raw data can be found [here](https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse.html).
+The binary R file [election.results.RData](coding/bundestag-election/election.results.RData) contains the cleaned results of the 2017 election for the German parliament. The raw data can be found [here](https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse.html). In addition I also provide a .Rmd version of the [second post](coding/bundestag-election/spatial-visualization.Rmd) of the series since Wordpress tears all my formatting apart.
 
 # art
 ## [Moses receiving the Ten Commandments on top of mount Sinai](art/moses)
