@@ -1,3 +1,7 @@
+I'm leaving this sinking ship. If you like this project, checked out the maintained version on [GitLab.com](https://gitlab.com/theGreatWhiteShark/blog-resources).
+
+---
+
 This repository provides additional resources for blog posts in my [blog](https://thegreatwhiteshark.tech.blog/).
 
 # music
